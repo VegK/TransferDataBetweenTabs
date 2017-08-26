@@ -48,7 +48,7 @@ Temporary Items
 
 Thumbs.db.meta
 /*
-/Assets/UnityVS
-/Assets/UnityVS.meta
 !/Assets
 !/ProjectSettings
+!index.html
+!SecondWindow.html
